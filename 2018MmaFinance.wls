@@ -104,3 +104,6 @@ TradingChart[tc[[;;50]],PlotTheme->"Web"]
 
 
 
+
+
+
